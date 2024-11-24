@@ -80,3 +80,4 @@ console.log(instructor);
     {},
     {}
 ]
+//NOTES ABOUT OBJECT DESTRUCTING 
